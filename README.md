@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fardeen-analyser&label=Profile%20views&color=0e75b6&style=flat" alt="fardeen-analyser" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[C://Users//Lenovo//Pictures//Screenshots//Screenshot 2025-12-11 195223.png" alt="fardeen-analyser](https://github.com/Fardeen-analyser/Fardeen-analyser/blob/main/Screenshot%202025-12-11%20195223.png)" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/Fardeen-analyser/Fardeen-analyser/blob/main/Screenshot%202025-12-11%20195223.png" alt="fardeen-analyser" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
