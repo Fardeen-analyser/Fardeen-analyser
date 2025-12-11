@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fardeen Khan</h1>
 <h3 align="center">A passionate data scientist from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fardeen-analyser&label=Profile%20views&color=0e75b6&style=flat" alt="fardeen-analyser" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=fardeen-analyser&label=Profile%20views&color=0e75b6&style=flat](https://repository-images.githubusercontent.com/532812401/14f410e8-4ae4-4d58-8fa7-d84262c30545)" alt="fardeen-analyser" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fardeen-analyser" alt="fardeen-analyser" /></a> </p>
 
