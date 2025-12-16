@@ -1,35 +1,80 @@
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/Fardeen-analyser/Fardeen-analyser/blob/main/ok.png" alt="fardeen-analyser"/></a> </p>
-<h1 align="center">Hi 👋, I'm Fardeen Khan</h1>
-<h3 align="center">A passionate data scientist from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fardeen-analyser&label=Profile%20views&color=0e75b6&style=flat" alt="fardeen-analyser" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on [Heart Disease Prodiction](https://github.com/Fardeen-analyser/Data_Science_Repo./blob/main/Heart_disease_prediction/Heart_Disease_Prediction_Repo%20(1).ipynb)
-
-- 🌱 I’m currently learning **Machine Learning | Full Stack Development**
-
-- 👨‍💻 All of my projects are available at github [https://github.com/Fardeen-analyser](https://github.com/Fardeen-analyser)
-
-- 💬 Ask me about **Python, HTML/CSS**
-
-- 📫 How to reach me **fardeenalikhan85@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/Fardeen-analyser/Portfolio/blob/main/portfolio1/Fardeen_Khan_Resume_.pdf](https://github.com/Fardeen-analyser/Portfolio/blob/main/portfolio1/Fardeen_Khan_Resume_.pdf)
-
-- ⚡ Fun fact **📊 I judge restaurants by the quality of their data dashboards… not their food.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/fardeen-khan-86a6412b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fardeen-khan-86a6412b0" height="30" width="40" /></a>
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://github.com/Fardeen-analyser/Fardeen-analyser/blob/main/ok.png" alt="banner" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<!-- NAME -->
+<h1 align="center">
+  <span style="color:blue;">${\color{red} Hi 👋, I'm }$</span>
+  <span style="color:#4da6ff;"> ${\color{blue} Fardeen Khan}$</span>
+</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fardeen-analyser&show_icons=true&locale=en&layout=compact" alt="fardeen-analyser" /></p>
+<!-- TAGLINE CARD -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Scientist-0F172D?style=for-the-badge&logo=python&logoColor=FACC15" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-0B3C5D?style=for-the-badge&logo=scikitlearn&logoColor=FBBF24" />
+  <img src="https://img.shields.io/badge/Frontend%20Developer-0A66C2?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fardeen-analyser&show_icons=true&locale=en" alt="fardeen-analyser" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fardeen-analyser&" alt="fardeen-analyser" /></p>
+
+---
+
+## 🚀 About Me
+
+- 🔭Currently working on **[Heart Disease Prediction](https://github.com/Fardeen-analyser/Data_Science_Repo./blob/main/Heart_disease_prediction/Heart_Disease_Prediction_Repo%20(1).ipynb)**
+- 🌱 Learning **Machine Learning | Full Stack Development**
+- 👨‍💻 All projects: **[Fardeen-analyser](https://github.com/Fardeen-analyser)**
+- 💬 Ask me about **Python, HTML/CSS**
+- 📫 Reach me at **fardeenalikhan85@gmail.com**
+- 📄 Resume: **[My Resume](https://github.com/Fardeen-analyser/Portfolio/blob/main/portfolio1/Fardeen_Khan_Resume_.pdf)**
+- ⚡ Fun fact: **📊 I judge restaurants by their data dashboards, not their food**
+
+---
+
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/fardeen-khan-86a6412b0" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Fardeen%20Khan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,c,mysql,php,pandas,sklearn" />
+</p>
+
+---
+
+
+
+## 📊 GitHub Analytics
+
+<!-- Overview Stats -->
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=fardeen-analyser&show_icons=true&theme=tokyonight&hide_border=true" 
+    width="400"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=fardeen-analyser&layout=compact&theme=tokyonight&hide_border=true" 
+    width="400"
+  />
+</p>
+
+<!-- Streak Stats -->
+<p align="center">
+  <img 
+    src="https://camo.githubusercontent.com/ac78b88aae2b7ad08076ab813a5ed89ed0f317f6ff3166424fcd159bbeef9569/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6661726465656e2d616e616c79736572267468656d653d746f6b796f6e69676874" 
+    width="1000"
+  />
+</p>
+
+<!-- Contribution Graph -->
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=fardeen-analyser&theme=tokyo-night&hide_border=true" 
+  />
+</p>
