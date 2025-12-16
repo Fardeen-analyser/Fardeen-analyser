@@ -1,4 +1,4 @@
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/Fardeen-analyser/Fardeen-analyser/blob/main/data.jpeg" alt="fardeen-analyser" width="1200" height="200"/></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/Fardeen-analyser/Fardeen-analyser/blob/main/ok.png" alt="fardeen-analyser"/></a> </p>
 <h1 align="center">Hi 👋, I'm Fardeen Khan</h1>
 <h3 align="center">A passionate data scientist from India</h3>
 
